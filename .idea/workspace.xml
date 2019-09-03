@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccf021cc-0001-46d7-b1f5-0315146deadd" name="Default" comment="try">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>errorHandler</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="yosef770 &lt;albo.yosef@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Code" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/create.js" />
+        <option value="$PROJECT_DIR$/models/account/Accoun.js" />
+        <option value="$PROJECT_DIR$/mocha.opts" />
+        <option value="$PROJECT_DIR$/test/mocha.opts" />
+        <option value="$PROJECT_DIR$/models/account/Account.js" />
+        <option value="$PROJECT_DIR$/instructions.txt" />
+        <option value="$PROJECT_DIR$/test/account/create.test.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/test/notification/delete.test.js" />
+        <option value="$PROJECT_DIR$/api/account/create.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="21" />
+    <option name="width" value="1920" />
+    <option name="height" value="1059" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Vue</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code-interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="js.eslint.eslintPackage" value="/usr/local/lib/node_modules/eslint" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/api/account" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.POST /account/create.should throw validation error">
+    <configuration name="app.js" type="NodeJSConfigurationType" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="GET /notification/create" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/notification/get.test.js</test-file>
+      <test-names>
+        <name value="GET /notification/create" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="POST /account/create" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/account/create.test.js</test-file>
+      <test-names>
+        <name value="POST /account/create" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="POST /account/create.should add account to database" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/account/create.test.js</test-file>
+      <test-names>
+        <name value="POST /account/create" />
+        <name value="should add account to database" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="POST /account/create.should throw validation error" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/account/create.test.js</test-file>
+      <test-names>
+        <name value="POST /account/create" />
+        <name value="should throw validation error" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="POST /notification/create.should add notification to database" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/account/create.test.js</test-file>
+      <test-names>
+        <name value="POST /notification/create" />
+        <name value="should add notification to database" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.POST /account/create" />
+      <item itemvalue="Mocha.POST /account/create.should add account to database" />
+      <item itemvalue="Mocha.POST /notification/create.should add notification to database" />
+      <item itemvalue="Mocha.GET /notification/create" />
+      <item itemvalue="Mocha.POST /account/create.should throw validation error" />
+      <item itemvalue="Node.js.app.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.POST /account/create.should throw validation error" />
+        <item itemvalue="Mocha.GET /notification/create" />
+        <item itemvalue="Mocha.POST /notification/create.should add notification to database" />
+        <item itemvalue="Mocha.POST /account/create.should add account to database" />
+        <item itemvalue="Mocha.POST /account/create" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccf021cc-0001-46d7-b1f5-0315146deadd" name="Default" comment="" />
+      <created>1550588339398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550588339398</updated>
+      <workItem from="1550588340694" duration="2895000" />
+      <workItem from="1550599405511" duration="2916000" />
+      <workItem from="1550742270478" duration="282000" />
+      <workItem from="1551106442753" duration="5999000" />
+      <workItem from="1551114855395" duration="2211000" />
+      <workItem from="1551121747339" duration="1004000" />
+      <workItem from="1567492623114" duration="1600000" />
+      <workItem from="1567494510310" duration="4286000" />
+    </task>
+    <task id="LOCAL-00001" summary="try">
+      <created>1567492943448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567492943449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="try">
+      <created>1567493354573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567493354573</updated>
+    </task>
+    <task id="LOCAL-00003" summary="try">
+      <created>1567496954054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567496954054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="POST__account_create_should_add_account_to_database - 2019.02.19 at 17h 26m 29s.xml">
+      <configuration name="POST /account/create.should add account to database" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="POST__account_create_should_add_account_to_database - 2019.02.19 at 17h 27m 00s.xml">
+      <configuration name="POST /account/create.should add account to database" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="POST__account_create_should_add_account_to_database - 2019.02.19 at 17h 28m 25s.xml">
+      <configuration name="POST /account/create.should add account to database" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="POST__account_create_should_add_account_to_database - 2019.02.19 at 17h 28m 45s.xml">
+      <configuration name="POST /account/create.should add account to database" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="POST__account_create_should_add_account_to_database - 2019.02.19 at 17h 28m 48s.xml">
+      <configuration name="POST /account/create.should add account to database" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="POST__account_create_should_add_account_to_database - 2019.02.19 at 19h 32m 17s.xml">
+      <configuration name="POST /account/create.should add account to database" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="POST__account_create_should_add_account_to_database - 2019.02.19 at 20h 05m 06s.xml">
+      <configuration name="POST /account/create.should add account to database" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="POST__account_create_should_throw_validation_error - 2019.02.25 at 19h 56m 41s.xml">
+      <configuration name="POST /account/create.should throw validation error" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="POST__notification_create_should_add_notification_to_database - 2019.02.25 at 16h 54m 42s.xml">
+      <configuration name="POST /notification/create.should add notification to database" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="POST__notification_create_should_add_notification_to_database - 2019.02.25 at 16h 55m 46s.xml">
+      <configuration name="POST /notification/create.should add notification to database" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21193000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="npm" order="0" side_tool="true" />
+      <window_info id="Favorites" order="1" sideWeight="0.5612745" side_tool="true" weight="0.17784877" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.30457935" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5042598" side_tool="true" weight="0.32800853" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49574015" weight="0.5256917" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4978701" weight="0.40362087" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.4978701" weight="0.3290735" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49574015" weight="0.3248731" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.3290735" />
+      <window_info anchor="bottom" id="TypeScript" order="12" show_stripe_button="false" weight="0.3290735" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.31641287" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="GfmBrowser" order="3" weight="0.32960597" />
+      <window_info anchor="right" x="100" y="123" width="1720" height="857" id="Documentation" order="4" type="FLOATING" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="5" sideWeight="0.4387255" visible="true" weight="0.16868442" />
+      <window_info anchor="right" x="588" y="82" width="264" height="759" id="Structure" order="6" weight="0.18849841" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="try" />
+    <option name="LAST_COMMIT_MESSAGE" value="try" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/routes/notifications.js" />
+    <entry file="file://$PROJECT_DIR$/api/controllers/notifications.js" />
+    <entry file="file://$PROJECT_DIR$/test/account/create_test.js" />
+    <entry file="file://$PROJECT_DIR$/test/notifications/get_test.js" />
+    <entry file="file://$PROJECT_DIR$/test/notifications/create_test.js" />
+    <entry file="file://$PROJECT_DIR$/utils/errorHandler.js" />
+    <entry file="file://$PROJECT_DIR$/sudo" />
+    <entry file="file://$PROJECT_DIR$/api/controllers/account.js" />
+    <entry file="file://$PROJECT_DIR$/models/notifications/Notifications.js" />
+    <entry file="file://$PROJECT_DIR$/api/notifications/create.js" />
+    <entry file="file://$PROJECT_DIR$/api/notifications/delete.js" />
+    <entry file="file://$PROJECT_DIR$/api/notifications/list.js" />
+    <entry file="file://$PROJECT_DIR$/api/account/accountController.js" />
+    <entry file="file://$PROJECT_DIR$/test/notification/add.test.js" />
+    <entry file="file://$PROJECT_DIR$/api/notification/notificationController.js" />
+    <entry file="file://$PROJECT_DIR$/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/config/index.js" />
+    <entry file="file://$PROJECT_DIR$/routers/api-router.js" />
+    <entry file="file://$PROJECT_DIR$/routers/account-router.js" />
+    <entry file="file://$PROJECT_DIR$/routers/notification-router.js" />
+    <entry file="file://$PROJECT_DIR$/index.js" />
+    <entry file="file://$PROJECT_DIR$/test/account/notification.test.js" />
+    <entry file="file://$PROJECT_DIR$/api/notifications/index.js" />
+    <entry file="file://$PROJECT_DIR$/api/notifications/notifications.controller.js" />
+    <entry file="file://$PROJECT_DIR$/models/account/Notifications.js" />
+    <entry file="file://$PROJECT_DIR$/routes.js" />
+    <entry file="file://$PROJECT_DIR$/api/notification/read.js" />
+    <entry file="file://$PROJECT_DIR$/test/notification/read.test.js" />
+    <entry file="file://$PROJECT_DIR$/test/account/post-notifications.test.js" />
+    <entry file="file://$PROJECT_DIR$/test/account/get-notifications.test.js" />
+    <entry file="file://$PROJECT_DIR$/middleware/responseHandler.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/database.js" />
+    <entry file="file://$PROJECT_DIR$/routes/user.js" />
+    <entry file="file://$PROJECT_DIR$/api/account/index.js" />
+    <entry file="file://$PROJECT_DIR$/api/notification/create.js" />
+    <entry file="file://$PROJECT_DIR$/api/notification/delete.js" />
+    <entry file="file://$PROJECT_DIR$/api/notification/index.js" />
+    <entry file="file://$PROJECT_DIR$/api/notification/get.js" />
+    <entry file="file://$PROJECT_DIR$/api/index.js" />
+    <entry file="file://$PROJECT_DIR$/models/account/Account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/notification/Notification.js" />
+    <entry file="file://$PROJECT_DIR$/test/account/create.test.js" />
+    <entry file="file://$PROJECT_DIR$/test/notification/create.test.js" />
+    <entry file="file://$PROJECT_DIR$/test/notification/get.test.js" />
+    <entry file="file://$PROJECT_DIR$/test/mocha.opts" />
+    <entry file="file://$PROJECT_DIR$/instructions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notification/delete.test.js" />
+    <entry file="file://$PROJECT_DIR$/api/account/create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
