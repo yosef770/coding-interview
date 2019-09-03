@@ -1,8 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const bodyParser = require('body-parser').json();
-const accountRoutes = require('./api/account/create');
-const notificationRoutes = require('./api/account/create'); // todo: create notification route file
+
 
 mongoose.connect('mongodb://localhost:27017/codeTest', {
 	autoReconnect: true,
