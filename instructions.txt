@@ -1,7 +1,7 @@
 GIT:
 - Every task needs to be commited separately, with a clear message (best practices: https://chris.beams.io/posts/git-commit/).
 - Upload the repo to your github.
-
+xc
 Enhance Account API:
 1) Improve /account/create API so it only accepts POST requests.
 2) Improve /account/create API so it returns an error if account with same email exists (i.e. make email unique in database)
