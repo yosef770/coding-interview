@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccf021cc-0001-46d7-b1f5-0315146deadd" name="Default" comment="try">
+    <list default="true" id="ccf021cc-0001-46d7-b1f5-0315146deadd" name="Default" comment="this is task">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/account/notification.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/account/create.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/account/create.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/account/Account.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/account/Account.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,12 +21,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="658">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -58,14 +83,19 @@
         <option value="$PROJECT_DIR$/models/account/Accoun.js" />
         <option value="$PROJECT_DIR$/mocha.opts" />
         <option value="$PROJECT_DIR$/test/mocha.opts" />
-        <option value="$PROJECT_DIR$/models/account/Account.js" />
-        <option value="$PROJECT_DIR$/instructions.txt" />
         <option value="$PROJECT_DIR$/test/account/create.test.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/test/notification/delete.test.js" />
-        <option value="$PROJECT_DIR$/api/account/create.js" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/instructions.txt" />
+        <option value="$PROJECT_DIR$/api/account/notification.js" />
+        <option value="$PROJECT_DIR$/models/account/Account.js" />
+        <option value="$PROJECT_DIR$/models/account/notification.js" />
+        <option value="$PROJECT_DIR$/api/notification/notification.js" />
+        <option value="$PROJECT_DIR$/api/account/create.js" />
+        <option value="$PROJECT_DIR$/client/index.html" />
+        <option value="$PROJECT_DIR$/client/index.js" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -79,9 +109,10 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="21" />
-    <option name="width" value="1920" />
-    <option name="height" value="1059" />
+    <option name="x" value="1759" />
+    <option name="y" value="20" />
+    <option name="width" value="1294" />
+    <option name="height" value="676" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -154,13 +185,7 @@
             <path>
               <item name="code-interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="code-interview" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-interview" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,10 +205,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yosef\Desktop\code-interview\models\account" />
       <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/api/account" />
     </key>
@@ -200,13 +226,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.POST /account/create.should throw validation error">
+  <component name="RunManager" selected="Node.js.app.js">
     <configuration name="app.js" type="NodeJSConfigurationType" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="GET /notification/create" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
+      <mocha-package>$USER_HOME$/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -221,6 +248,7 @@
     <configuration name="POST /account/create" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
+      <mocha-package>$USER_HOME$/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -235,6 +263,7 @@
     <configuration name="POST /account/create.should add account to database" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
+      <mocha-package>$USER_HOME$/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -266,6 +295,7 @@
     <configuration name="POST /notification/create.should add notification to database" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
+      <mocha-package>$USER_HOME$/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -313,7 +343,10 @@
       <workItem from="1551114855395" duration="2211000" />
       <workItem from="1551121747339" duration="1004000" />
       <workItem from="1567492623114" duration="1600000" />
-      <workItem from="1567494510310" duration="4286000" />
+      <workItem from="1567494510310" duration="21457000" />
+      <workItem from="1567537338492" duration="662000" />
+      <workItem from="1567575238766" duration="24523000" />
+      <workItem from="1567721573196" duration="2280000" />
     </task>
     <task id="LOCAL-00001" summary="try">
       <created>1567492943448</created>
@@ -336,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567496954054</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="this is task">
+      <created>1567499407563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567499407563</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -372,10 +412,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21193000" />
+    <option name="totallyTimeSpent" value="65829000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="1912" y="28" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
       <window_info id="Favorites" order="1" sideWeight="0.5612745" side_tool="true" weight="0.17784877" />
@@ -384,21 +425,21 @@
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5042598" side_tool="true" weight="0.32800853" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49574015" weight="0.5256917" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4978701" weight="0.40362087" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50282484" side_tool="true" weight="0.0952381" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49574015" weight="0.37513998" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4978701" weight="0.33818588" />
       <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.4978701" weight="0.3290735" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49574015" weight="0.3248731" />
       <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.3290735" />
       <window_info anchor="bottom" id="TypeScript" order="12" show_stripe_button="false" weight="0.3290735" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.31641287" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49717513" weight="0.42553192" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="GfmBrowser" order="3" weight="0.32960597" />
       <window_info anchor="right" x="100" y="123" width="1720" height="857" id="Documentation" order="4" type="FLOATING" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="5" sideWeight="0.4387255" visible="true" weight="0.16868442" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="5" sideWeight="0.4387255" visible="true" weight="0.18276283" />
       <window_info anchor="right" x="588" y="82" width="264" height="759" id="Structure" order="6" weight="0.18849841" />
     </layout>
   </component>
@@ -447,15 +488,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="try" />
-    <option name="LAST_COMMIT_MESSAGE" value="try" />
+    <MESSAGE value="this is task" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is task" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/api/notification/notification.js</url>
+          <line>19</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/api/notification/notification.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/api/notification/notification.js</url>
+          <line>30</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/routes/notifications.js" />
-    <entry file="file://$PROJECT_DIR$/api/controllers/notifications.js" />
-    <entry file="file://$PROJECT_DIR$/test/account/create_test.js" />
-    <entry file="file://$PROJECT_DIR$/test/notifications/get_test.js" />
-    <entry file="file://$PROJECT_DIR$/test/notifications/create_test.js" />
-    <entry file="file://$PROJECT_DIR$/utils/errorHandler.js" />
     <entry file="file://$PROJECT_DIR$/sudo" />
     <entry file="file://$PROJECT_DIR$/api/controllers/account.js" />
     <entry file="file://$PROJECT_DIR$/models/notifications/Notifications.js" />
@@ -496,45 +553,86 @@
     <entry file="file://$PROJECT_DIR$/api/notification/index.js" />
     <entry file="file://$PROJECT_DIR$/api/notification/get.js" />
     <entry file="file://$PROJECT_DIR$/api/index.js" />
-    <entry file="file://$PROJECT_DIR$/models/account/Account.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models/notification/Notification.js" />
     <entry file="file://$PROJECT_DIR$/test/account/create.test.js" />
     <entry file="file://$PROJECT_DIR$/test/notification/create.test.js" />
     <entry file="file://$PROJECT_DIR$/test/notification/get.test.js" />
     <entry file="file://$PROJECT_DIR$/test/mocha.opts" />
-    <entry file="file://$PROJECT_DIR$/instructions.txt">
+    <entry file="file://$PROJECT_DIR$/test/notification/delete.test.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/notification/delete.test.js" />
+    <entry file="file://$PROJECT_DIR$/models/account/notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/notification/notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instructions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.16.0/core-modules/internal/modules/cjs/loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="635" column="14" selection-start-line="635" selection-start-column="14" selection-end-line="635" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="201" column="14" selection-start-line="201" selection-start-column="14" selection-end-line="201" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/api/account/create.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="340">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/account/Account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="658">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>

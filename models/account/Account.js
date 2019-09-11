@@ -1,10 +1,37 @@
 const mongoose = require('mongoose');
 
-const Account = new mongoose.Schema({
-	email: {type: String, required: true},
+
+const AccountSchema = new mongoose.Schema({
+	email: {type: String, required: true, unique: true, dropDups: true },
 	name: {type: String},
 	age: {type: Number},
-
 }, {timestamps: true});
 
-module.exports = mongoose.model('Account', Account);
+
+const accountModel = mongoose.model('accounts', AccountSchema);
+
+const accounts = {};
+
+accounts.getAccByEmail = async function(email){
+	try {
+		const res = await accountModel.findOne({email}).exec();
+		return res ? res._doc : null;
+	}catch (e) {
+		return null;
+	}
+};
+
+accounts.createAcc=async function({email, name, age}){
+	try {
+		const account = new accountModel({email, name, age});
+		await account.save();
+		return true;
+	}
+	catch (e) {
+		return false;
+	}
+};
+
+accounts.accountModel = accountModel;
+
+module.exports = accounts;
