@@ -1,10 +1,13 @@
 const express = require('express');
 const mongoose = require('mongoose');
+<<<<<<< HEAD
 const bodyParser = require('body-parser').json();
 const accountRoutes = require('./api/account/create');
 const notificationRoutes = require('./api/notification/notification');
 const router = express.Router();
 const path = require('path');
+=======
+>>>>>>> origin/master
 
 
 mongoose.connect('mongodb://localhost:27017/codeTest', {
